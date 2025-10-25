@@ -32,8 +32,8 @@ npm run preview
 
 ## 🌐 Live Demo
 
-**Live Site:** [Will be added after Vercel deployment]
-**GitHub Repository:** [Will be added after GitHub push]
+**Live Site: https://vercel.com/dileepkumars-projects-95575d6b/tiffinbox-app/3HNWvUc3B1YQVV6mTC5ravYHWaLo
+**GitHub Repository: https://tiffinbox-app.vercel.app/
 
 ## ✨ Key Features Implemented
 
